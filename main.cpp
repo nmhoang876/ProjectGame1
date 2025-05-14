@@ -12,7 +12,6 @@
 #include "utils.h"
 
 /**score**/
-
 //highscore
 void SaveHighScore(int score) {
     std::ofstream file("highscore.txt");
